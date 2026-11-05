@@ -115,6 +115,7 @@ Bij goede aanbieders wel. Loopt de gids een uur voor of achter, stel dan de tijd
 ## Verder lezen
 
 - [Een IPTV-aanbieder kiezen in Nederland: praktische checklist voor 2026](iptv-aanbieder-kiezen-in-nederland.md)
+- [Checklist als pdf](https://smartvpro1.s3.us-east-2.amazonaws.com/iptv-nederland-checklist-2026.pdf)
 - [Wat is IPTV](https://dutchiptvnl.net/iptv/)
 - [IPTV kopen in Nederland](https://dutchiptvnl.net/iptv-kopen/)
 - [Beste IPTV Nederland](https://dutchiptvnl.net/beste-iptv-nederland/)

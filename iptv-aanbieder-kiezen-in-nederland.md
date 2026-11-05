@@ -4,6 +4,8 @@
 
 Laatst bijgewerkt: november 2026
 
+Download deze checklist als pdf: [iptv-nederland-checklist-2026.pdf](https://smartvpro1.s3.us-east-2.amazonaws.com/iptv-nederland-checklist-2026.pdf)
+
 ## In het kort
 
 | Controle | Waar je op let |
