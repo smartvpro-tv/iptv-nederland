@@ -77,6 +77,8 @@ Gebruik deze lijst bij elke aanbieder, ook bij ons:
 
 Rode vlaggen: levenslange abonnementen, prijzen ver onder de markt, geen proefperiode, geen zenderlijst, alleen support via Telegram.
 
+Een kortere versie van deze checklist, stap voor stap: [Een IPTV-aanbieder kiezen in Nederland](iptv-aanbieder-kiezen-in-nederland.md).
+
 ## Gangbare Nederlandse zendercategorieën
 
 - **Nederlandse zenders:** NPO 1/2/3, RTL 4/5/7/8, SBS6, Net5, Veronica, SBS9, regionale omroepen
@@ -93,7 +95,7 @@ Een voorbeeld van hoe zo'n lijst is opgebouwd: [dutchiptvnl.net/iptv-zenders](ht
 ## Veelgestelde vragen
 
 **Is IPTV legaal in Nederland?**
-De techniek is legaal; KPN en Ziggo leveren hun tv al via IP. Het gaat erom of de dienst de rechten heeft op de zenders. Gelicentieerde diensten zijn legaal. Het aanbieden van ongelicentieerde streams is strafbaar; kijken ernaar is juridisch een grijs gebied. Kies aanbieders die transparant zijn over hun aanbod en een terugbetalingsbeleid hanteren.
+De techniek is legaal; KPN en Ziggo leveren hun tv al via IP. Het gaat erom of de dienst de rechten heeft op de zenders. Gelicentieerde diensten zijn legaal. Het aanbieden van ongelicentieerde streams is strafbaar. Ook kijken naar streams uit illegale bron is niet toegestaan, sinds de Filmspeler-uitspraak van het Europese Hof van Justitie in 2017. Kies aanbieders die transparant zijn over hun aanbod en een terugbetalingsbeleid hanteren.
 
 **Heb ik een VPN nodig?**
 Nee, niet om IPTV te laten werken. Sommige kijkers gebruiken er een voor privacy.
@@ -112,6 +114,7 @@ Bij goede aanbieders wel. Loopt de gids een uur voor of achter, stel dan de tijd
 
 ## Verder lezen
 
+- [Een IPTV-aanbieder kiezen in Nederland: praktische checklist voor 2026](iptv-aanbieder-kiezen-in-nederland.md)
 - [Wat is IPTV](https://dutchiptvnl.net/iptv/)
 - [IPTV kopen in Nederland](https://dutchiptvnl.net/iptv-kopen/)
 - [Beste IPTV Nederland](https://dutchiptvnl.net/beste-iptv-nederland/)
