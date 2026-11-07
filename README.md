@@ -61,6 +61,8 @@ Welke app op welk apparaat: [awesome-iptv-players](https://github.com/smartvpro-
 
 Nederland heeft snel internet; buffering komt bijna altijd door wifi, niet door het abonnement. Een netwerkkabel naar de tv of Fire TV Stick (via een adapter van een tientje) lost het meestal op. Meer oplossingen in [iptv-troubleshooting](https://github.com/smartvpro-tv/iptv-troubleshooting).
 
+Wil je de echte snelheid naar de stream zelf meten, bijvoorbeeld tijdens een Eredivisie-wedstrijd? Gebruik de gratis [iptv-toolkit](https://github.com/smartvpro-tv/iptv-toolkit) en volg de Nederlandse gids [IPTV testen voordat je koopt](https://smartvpro-tv.github.io/iptv-toolkit/nederland.html).
+
 ## Waar je op let voordat je een IPTV-abonnement koopt
 
 Gebruik deze lijst bij elke aanbieder, ook bij ons:
